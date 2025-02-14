@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Február 14 van
-=======
-valamiiii
-valamiiii
->>>>>>> 55ce9f3f15859d12d3f66102c0cbc83c80aa66f7
+
